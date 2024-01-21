@@ -13,20 +13,20 @@ The dataset, encompassing 417,883 records, provides a comprehensive view of road
 
 **Described sections here :**
 
-**Urban vs. Rural Analysis:**
-
+**1st. Urban vs. Rural Analysis:**
 Explore the distribution of accidents between urban and rural areas.
 Identify trends in the severity of casualties in each setting.
 Serious Casualties Analysis:
 
+**2nd. Serious Casualties Analysis:**
 Investigate the factors leading to serious casualties.
 Determine if there are specific patterns or contributing factors.
-Monthly Casualties Trends (2015 and 2016):
 
+**3rd. Monthly Casualties Trends (2015 and 2016):**
 Analyze the monthly variations in accident occurrences for the years 2015 and 2016.
 Identify any seasonality or patterns that may influence accident rates.
-Road Casualties and Road Surface:
 
+**4th. Road Casualties and Road Surface:**
 Breakdown of road casualties based on severity:
 Fatal: 1,513
 Slight: 116,870
